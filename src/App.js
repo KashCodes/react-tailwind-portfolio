@@ -8,15 +8,15 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <main>
+    <body className="bg-indigo-900 bg-cover h-auto">
+      <main className="bg-indigo-900 bg-cover h-auto">
         <Nav></Nav>
         <Header></Header>
         <About></About>
         <Project></Project>
         <Footer></Footer>
       </main>
-    </div>
+    </body>
   );
 }
 
