@@ -10,10 +10,10 @@ const Skills = () => {
   return (
     <div className="pt-3 pb-3" id="skills">
       <h1 className="text-center font-details-b pb-4">
-        <i class="fas fa-code-branch fa-fw"></i> TECH SKILLS
+        <i class="fas fa-code-branch fa-fw raleway-font"></i> TECH SKILLS
       </h1>
 
-      <CardColumns className="absolute-center">
+      <CardColumns className="absolute-center raleway-font">
         {/* ******** */}
         {/* Frontend */}
         {/* ******** */}

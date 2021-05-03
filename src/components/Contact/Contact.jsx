@@ -48,9 +48,9 @@ const Contact = () => {
 
     <div id="contact">
       <h1 className="pt-3 text-center font-details-b pb-3">
-        <i class="far fa-id-card fa-fw"></i> Contact Me
+        <i class="far fa-id-card fa-fw raleway-font"></i> Contact Me
       </h1>
-      <Jumbotron className="contact-jumbotron">
+      <Jumbotron className="contact-jumbotron raleway-font">
         <Row  className="justify-center">
           <div className="bg-indigo-900 text-white p-4 m-4 rounded-3xl">
             <h1 data-testid="h1tag">Send me a message...</h1>
@@ -77,7 +77,7 @@ const Contact = () => {
           </div> 
         </Row>
         <Row>
-          <Col className="d-flex justify-content-center flex-wrap">
+          <Col className="d-flex justify-content-center flex-wrap raleway-font">
 
 
             {/* ************* */}

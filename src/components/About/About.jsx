@@ -10,7 +10,7 @@ import Button from "react-bootstrap/Button";
 const About = () => {
   return (
     <div id="about">
-      <div className="about">
+      <div className="about raleway-font">
         <h1 className="pt-3 text-center font-details pb-3"><i class="fas fa-comment-dots fa-fw"></i> About Me</h1>
         <Container>
           <Row className="pt-3 pb-5 align-items-center">
@@ -28,7 +28,7 @@ const About = () => {
             </Col>
             {/* About be description */}
             <Col xs={12} md={6}>
-              <Row className=" align-items-start p-2 my-details rounded">
+              <Row className=" align-items-start p-2 my-details rounded raleway-font">
                 Salutations! I'm<strong>&nbsp; Kashay Arbelo,</strong>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni qui tenetur similique, odio, quisquam eligendi perferendis facere repudiandae iure, nam officia ipsum iusto amet saepe placeat? Ipsam consequatur adipisci nemo.
                 <br /> <br />

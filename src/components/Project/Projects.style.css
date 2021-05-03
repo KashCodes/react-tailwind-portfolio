@@ -10,6 +10,7 @@
   
     padding: 10px;
     color: #4C1D95;
+    font-family: 'Raleway', sans-serif;
   }
   
   .list-styles {
@@ -18,6 +19,11 @@
   
   .image-style1 {
     width: 3em;
+  }
+
+  .project-title {
+    color: #4C1D95;
+    font-family: 'Raleway', sans-serif;
   }
 
   
