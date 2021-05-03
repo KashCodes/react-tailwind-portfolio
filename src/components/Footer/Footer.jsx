@@ -1,11 +1,15 @@
-import React from 'react';
+import React from "react";
 
-function Footer() {
+import "./Footer.styles.css";
+
+const Footer = () => {
   return (
-    <section>
-      <h1 id="footer">Look a Footer!</h1>
-    </section>
+    <div>
+      <div className="py-2 text-center footer-style">
+        © KASHAY ARBELO &nbsp; {new Date().getFullYear()}
+      </div>
+    </div>
   );
-}
+};
 
 export default Footer;

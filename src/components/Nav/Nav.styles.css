@@ -1,0 +1,46 @@
+.texdec {
+  text-decoration:none;
+}
+
+.texdec:hover {
+  text-decoration:none;
+  color: #4F46E5;
+}
+
+.noDecoration, a:link, a:visited, .noDecoration:hover {
+  text-decoration: none;
+  color: #4F46E5;
+}
+
+.nav-theme {
+  /* background-color: #101018f8; */
+  background: #1F2937; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #1F2937,
+    #312E81
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #1F2937,
+    #312E81
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  font-size: 20px;
+  color: white;
+}
+
+.animate-navbar {
+  box-shadow: 1px 1px 1px #222;
+  animation: moveDown 0.5s ease-in-out;
+
+}
+
+@keyframes moveDown {
+  from {
+    transform: translateY(-5rem);
+  }
+  to {
+    transform: translateY(0rem);
+  }
+}

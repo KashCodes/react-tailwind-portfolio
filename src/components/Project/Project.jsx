@@ -64,7 +64,7 @@ const customTheme = createTheme(themes.default, {
     backgroundColor: "#30b6f0",
   },
   urlButton: {
-    backgroundColor: "#ed2424",
+    backgroundColor: "#4C1D95",
   },
   imageText: {
     marginBottom: "10px",
