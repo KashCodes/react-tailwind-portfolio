@@ -43,7 +43,7 @@
 
 ## Live Site:
 
-> https://kashcodes.github.io/react-tailwind-portfolio/
+> https://kashcodes-react-portfolio.herokuapp.com/
 
 ## GitHub Repository Link:
 
