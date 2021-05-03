@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-tailwind-portfolio/static/css/main.77e175db.chunk.css",
-    "main.js": "/react-tailwind-portfolio/static/js/main.42b8fe75.chunk.js",
-    "main.js.map": "/react-tailwind-portfolio/static/js/main.42b8fe75.chunk.js.map",
+    "main.css": "/react-tailwind-portfolio/static/css/main.36e5c25f.chunk.css",
+    "main.js": "/react-tailwind-portfolio/static/js/main.c7bd217e.chunk.js",
+    "main.js.map": "/react-tailwind-portfolio/static/js/main.c7bd217e.chunk.js.map",
     "runtime-main.js": "/react-tailwind-portfolio/static/js/runtime-main.48ff628c.js",
     "runtime-main.js.map": "/react-tailwind-portfolio/static/js/runtime-main.48ff628c.js.map",
     "static/css/2.737e53d6.chunk.css": "/react-tailwind-portfolio/static/css/2.737e53d6.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.165d51a2.chunk.js.map": "/react-tailwind-portfolio/static/js/3.165d51a2.chunk.js.map",
     "index.html": "/react-tailwind-portfolio/index.html",
     "static/css/2.737e53d6.chunk.css.map": "/react-tailwind-portfolio/static/css/2.737e53d6.chunk.css.map",
-    "static/css/main.77e175db.chunk.css.map": "/react-tailwind-portfolio/static/css/main.77e175db.chunk.css.map",
+    "static/css/main.36e5c25f.chunk.css.map": "/react-tailwind-portfolio/static/css/main.36e5c25f.chunk.css.map",
     "static/js/2.bdcc4cab.chunk.js.LICENSE.txt": "/react-tailwind-portfolio/static/js/2.bdcc4cab.chunk.js.LICENSE.txt",
     "static/media/Contact.styles.css": "/react-tailwind-portfolio/static/media/25101.31263592.webp",
     "static/media/CSS3_logo.0c420842.svg": "/react-tailwind-portfolio/static/media/CSS3_logo.0c420842.svg",
@@ -53,7 +53,7 @@
     "static/js/runtime-main.48ff628c.js",
     "static/css/2.737e53d6.chunk.css",
     "static/js/2.bdcc4cab.chunk.js",
-    "static/css/main.77e175db.chunk.css",
-    "static/js/main.42b8fe75.chunk.js"
+    "static/css/main.36e5c25f.chunk.css",
+    "static/js/main.c7bd217e.chunk.js"
   ]
 }
