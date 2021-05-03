@@ -211,22 +211,16 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://bootcamp-projects.github.io/collocation-creation/"
+                href="https://kashcode-budget-tracker.herokuapp.com/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/Bootcamp-Projects/collocation-creation"
+                href="https://github.com/KashCodes/Budget-Tracker"
                 target="_blank"
               >
                 SOURCE CODE
-              </UrlButton>
-              <UrlButton
-                href="https://1drv.ms/u/s!AsTLbKRukIANh44ANs2rVWMtAa79GQ?e=klvSU2"
-                target="_blank"
-              >
-                WATCH VIDEO
               </UrlButton>
             </div>
           </div>
@@ -372,13 +366,13 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://sweati-fitness-app.herokuapp.com"
+                href="https://drive.google.com/file/d/1Css4udq3OncbN8SV17ETKTN_gyEraXpU/view"
                 target="_blank"
               >
-                SEE LIVE
+                SEE VIDEO
               </UrlButton>
               <UrlButton
-                href="https://github.com/vand-coding-bootcamp/sweati"
+                href="https://github.com/KashCodes/Team-Profile-Generator"
                 target="_blank"
               >
                 SOURCE CODE
@@ -520,19 +514,19 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://bootcamp-projects.github.io/collocation-creation/"
+                href="https://coding-bootcamp-survival-guide.herokuapp.com/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/Bootcamp-Projects/collocation-creation"
+                href="https://github.com/Coding-Bootcamp-Survival-Guide/Coding-Bootcamp-Survival-Guide"
                 target="_blank"
               >
                 SOURCE CODE
               </UrlButton>
               <UrlButton
-                href="https://1drv.ms/u/s!AsTLbKRukIANh44ANs2rVWMtAa79GQ?e=klvSU2"
+                href="https://drive.google.com/file/d/1UL_enQS1NUaSNOnWEJRAG2vYJFQae5Vr/view"
                 target="_blank"
               >
                 WATCH VIDEO
@@ -681,13 +675,13 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://sweati-fitness-app.herokuapp.com"
+                href="https://kashcodes-tech-blog.herokuapp.com/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/vand-coding-bootcamp/sweati"
+                href="https://github.com/KashCodes/Tech-Blog"
                 target="_blank"
               >
                 SOURCE CODE
@@ -829,19 +823,13 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://bootcamp-projects.github.io/collocation-creation/"
-                target="_blank"
-              >
-                SEE LIVE
-              </UrlButton>
-              <UrlButton
-                href="https://github.com/Bootcamp-Projects/collocation-creation"
+                href="https://github.com/KashCodes/Employee-Tracker"
                 target="_blank"
               >
                 SOURCE CODE
               </UrlButton>
               <UrlButton
-                href="https://1drv.ms/u/s!AsTLbKRukIANh44ANs2rVWMtAa79GQ?e=klvSU2"
+                href="https://drive.google.com/file/d/1Z7pRX48OOCl4rLAsdxGaXBOqXjVnroVZ/view"
                 target="_blank"
               >
                 WATCH VIDEO
@@ -977,22 +965,16 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://bootcamp-projects.github.io/collocation-creation/"
+                href="https://kashcodes-note-taker.herokuapp.com/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/Bootcamp-Projects/collocation-creation"
+                href="https://github.com/KashCodes/Note-Taker"
                 target="_blank"
               >
                 SOURCE CODE
-              </UrlButton>
-              <UrlButton
-                href="https://1drv.ms/u/s!AsTLbKRukIANh44ANs2rVWMtAa79GQ?e=klvSU2"
-                target="_blank"
-              >
-                WATCH VIDEO
               </UrlButton>
             </div>
           </div>
@@ -1138,13 +1120,13 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://sweati-fitness-app.herokuapp.com"
+                href="https://sly-is-the-fox.github.io/Sly-Is-The-Fox/index.html"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/vand-coding-bootcamp/sweati"
+                href="https://github.com/Sly-Is-The-Fox/Sly-Is-The-Fox"
                 target="_blank"
               >
                 SOURCE CODE
@@ -1286,19 +1268,13 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://bootcamp-projects.github.io/collocation-creation/"
-                target="_blank"
-              >
-                SEE LIVE
-              </UrlButton>
-              <UrlButton
-                href="https://github.com/Bootcamp-Projects/collocation-creation"
+                href="https://github.com/KashCodes/README-Generator"
                 target="_blank"
               >
                 SOURCE CODE
               </UrlButton>
               <UrlButton
-                href="https://1drv.ms/u/s!AsTLbKRukIANh44ANs2rVWMtAa79GQ?e=klvSU2"
+                href="https://drive.google.com/file/d/1ZcT_xT9xDOOrXDOjrFpcKALfTTh31Qqg/view"
                 target="_blank"
               >
                 WATCH VIDEO
@@ -1447,13 +1423,13 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://sweati-fitness-app.herokuapp.com"
+                href="https://kashcodes.github.io/weather-dashboard/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/vand-coding-bootcamp/sweati"
+                href="https://github.com/KashCodes/weather-dashboard"
                 target="_blank"
               >
                 SOURCE CODE
@@ -1595,22 +1571,16 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://bootcamp-projects.github.io/collocation-creation/"
+                href="https://kashcodes.github.io/Work-Day-Scheduler/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/Bootcamp-Projects/collocation-creation"
+                href="https://github.com/KashCodes/Work-Day-Scheduler"
                 target="_blank"
               >
                 SOURCE CODE
-              </UrlButton>
-              <UrlButton
-                href="https://1drv.ms/u/s!AsTLbKRukIANh44ANs2rVWMtAa79GQ?e=klvSU2"
-                target="_blank"
-              >
-                WATCH VIDEO
               </UrlButton>
             </div>
           </div>
@@ -1756,23 +1726,17 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://sweati-fitness-app.herokuapp.com"
+                href="https://kashcodes.github.io/Password-Gen/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/vand-coding-bootcamp/sweati"
+                href="https://github.com/KashCodes/Password-Gen"
                 target="_blank"
               >
                 SOURCE CODE
               </UrlButton>
-              {/* <UrlButton
-                href=""
-                target="_blank"
-              >
-                WATCH VIDEO
-              </UrlButton> */}
             </div>
           </div>
         </ImageEvent>
@@ -1947,22 +1911,16 @@ function Project() {
             </div>
             <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                href="https://esl-final-project.herokuapp.com"
+                href="https://kashcodes.github.io/horiseon/"
                 target="_blank"
               >
                 SEE LIVE
               </UrlButton>
               <UrlButton
-                href="https://github.com/ESL-Experience/esl-project"
+                href="https://github.com/KashCodes/horiseon"
                 target="_blank"
               >
                 SOURCE CODE
-              </UrlButton>
-              <UrlButton
-                href="https://youtu.be/MtTMnDhAcd4"
-                target="_blank"
-              >
-                WATCH VIDEO
               </UrlButton>
             </div>
           </div>
