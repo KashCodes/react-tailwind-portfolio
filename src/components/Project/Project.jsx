@@ -16,17 +16,17 @@ import Image from "react-bootstrap/Image";
 // ********
 // Projects
 // ********
-import L_BudgetTracker from "../../assets/images/projects/proj4.PNG";
-import L_TeamProfileGen from "../../assets/images/projects/proj3.jpg";
-import L_CodingBootcamp from "../../assets/images/projects/proj4.PNG";
-import L_TechBlog from "../../assets/images/projects/horiseon.PNG";
-import L_EmployeeTracker from "../../assets/images/projects/proj4.PNG";
-import L_NoteTaker from "../../assets/images/projects/proj3.jpg";
-import L_SlyFox from "../../assets/images/projects/proj3.jpg";
-import L_ProReadmeGen from "../../assets/images/projects/horiseon.PNG";
-import L_WeatherDashboard from "../../assets/images/projects/horiseon.PNG";
-import L_WorkDayScheduler from "../../assets/images/projects/horiseon.PNG";
-import L_PasswordGen from "../../assets/images/projects/horiseon.PNG";
+import L_BudgetTracker from "../../assets/images/projects/budgetTracker.PNG";
+import L_TeamProfileGen from "../../assets/images/projects/teamProfileGen.gif";
+import L_CodingBootcamp from "../../assets/images/projects/codingbootcamp.PNG";
+import L_TechBlog from "../../assets/images/projects/techblog.PNG";
+import L_EmployeeTracker from "../../assets/images/projects/employeeTracker.gif";
+import L_NoteTaker from "../../assets/images/projects/noteTaker.gif";
+import L_SlyFox from "../../assets/images/projects/slyfox.jpg";
+import L_ProReadmeGen from "../../assets/images/projects/readmeGen.gif";
+import L_WeatherDashboard from "../../assets/images/projects/weatherDashboard.PNG";
+import L_WorkDayScheduler from "../../assets/images/projects/workdayScheduler.PNG";
+import L_PasswordGen from "../../assets/images/projects/passgen.PNG";
 import L_Horiseon from "../../assets/images/projects/horiseon.PNG";
 
 
