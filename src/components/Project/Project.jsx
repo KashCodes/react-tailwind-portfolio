@@ -28,6 +28,7 @@ import L_WeatherDashboard from "../../assets/images/projects/weatherDashboard.PN
 import L_WorkDayScheduler from "../../assets/images/projects/workdayScheduler.PNG";
 import L_PasswordGen from "../../assets/images/projects/passgen.PNG";
 import L_Horiseon from "../../assets/images/projects/horiseon.PNG";
+import L_PortfolioGen from "../../assets/images/projects/ProfileGenerator.PNG"
 
 
 
@@ -50,6 +51,9 @@ import L_REDUX from "../../assets/images/skills/redux.svg";
 import L_HEROKU from "../../assets/images/skills/heroku.svg";
 import L_REACT from "../../assets/images/skills/react.svg";
 import L_REACT_ROUTER from "../../assets/images/skills/react-router.svg";
+import L_APOLLOGRAPHQL from "../../assets/images/skills/apollo-graphql.svg"
+import L_REACT_BOOTSTRAP from "../../assets/images/skills/react-bootstrap.svg"
+
 
 import "./Projects.style.css";
 
@@ -84,6 +88,170 @@ function Project() {
     </h1>
     <Timeline theme={customTheme}>
       <Events>
+
+
+        {/* ****************** */}
+        {/* Portfolio Generator */}
+        {/* ****************** */}
+
+        <ImageEvent
+          className="text-center  text-purple-900 project-title"
+          date="4/17/2021"
+          text="Portfolio Generator"
+          src={L_PortfolioGen}
+          alt="Portfolio Generator"
+        >
+          <div className="d-flex justify-content-between flex-column mt-1">
+            <div>
+              <Accordion>
+                <Card>
+                  <Accordion.Toggle
+                    as={Card.Header}
+                    eventKey="0"
+                    className="p-2 text-center accordian-main"
+                  >
+                    <strong>PROJECT DETAILS</strong>
+                  </Accordion.Toggle>
+
+                  <Accordion.Collapse eventKey="0" className="text-left">
+                    <Card.Body>
+                      <strong>Description:</strong> A sophisticated online portfolio is essential for every developer. In just minutes, this application creates a professional portfolio for you to to deploy to the web.
+                      <hr />
+                      <strong>Features:</strong>
+                      <ul className="list-styles p-3">
+                        <li>Create a professional Developer Portfolio </li>
+                        <li>Includes Skills List</li>
+                        <li>
+                          Includes Social Media 
+                        </li>
+                        <li>
+                          Includes Projects List
+                        </li>
+                      </ul>
+                      <hr />
+                      <strong>Tech used:</strong>
+                      <ul>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_HTML}
+                              alt="HTML 5"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            HTML5
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_CSS3}
+                              alt="CSS 3"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            CSS3
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_JAVASCRIPT}
+                              alt="JavaScript"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            JavaScript
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_NODE}
+                              alt="Node.js"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            Node.js
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_MONGODB}
+                              alt="Mongo DB"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            Mongo DB
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_REACT}
+                              alt="React"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            React
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_REACT_BOOTSTRAP}
+                              alt="React Bootstrap"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            React Bootstrap
+                          </span>
+                        </li>
+                        <li>
+                          <span className="p-2">
+                            <Image
+                              src={L_APOLLOGRAPHQL}
+                              alt="Apollo Graph QL"
+                              rounded
+                              className="image-style m-1"
+                            ></Image>{" "}
+                            Apollo Graph QL
+                          </span>
+                        </li>
+                      </ul>
+                    </Card.Body>
+                  </Accordion.Collapse>
+                </Card>
+              </Accordion>
+            </div>
+            <div className="d-flex justify-content-between flex-nowrap text-center">
+              <UrlButton
+                href="https://dksv-portfolio-generator.herokuapp.com/"
+                target="_blank"
+              >
+                LIVE SITE
+              </UrlButton>
+              <UrlButton
+                href="https://github.com/Portfolio-Generator/Portfolio-Generator"
+                target="_blank"
+              >
+                SOURCE CODE
+              </UrlButton>
+              {/* <UrlButton
+                href=""
+                target="_blank"
+              >
+                WATCH VIDEO
+              </UrlButton> */}
+            </div>
+          </div>
+        </ImageEvent>
+        
+
+
+
+
         {/* ******************** */}
         {/* Budget Tracker */}
         {/* ******************** */}

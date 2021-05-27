@@ -3,7 +3,7 @@ import "./App.css";
 import { Parallax } from "react-parallax";
 import Container from "react-bootstrap/Container";
 import Image from "./assets/images/parallax/25101.webp";
-import Slide from "react-reveal/Slide";
+// import Slide from "react-reveal/Slide";
 import Fade from "react-reveal/Fade";
 
 // components
@@ -66,10 +66,10 @@ function App() {
 
       <div>
         <Container className="container-box rounded">
-          <Slide bottom duration={500}>
+          {/* <Slide bottom duration={500}> */}
             <hr />
             <Project />
-          </Slide>
+          {/* </Slide> */}
         </Container>
       </div>
       
@@ -79,10 +79,10 @@ function App() {
 
       <div>
         <Container className="container-box rounded">
-          <Slide bottom duration={500}>
+          {/* <Slide bottom duration={500}> */}
             <hr />
             <Contact />
-          </Slide>
+          {/* </Slide> */}
         </Container>
       </div>
       <div>
