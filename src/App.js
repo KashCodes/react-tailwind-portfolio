@@ -3,8 +3,8 @@ import "./App.css";
 import { Parallax } from "react-parallax";
 import Container from "react-bootstrap/Container";
 import Image from "./assets/images/parallax/25101.webp";
-// import Slide from "react-reveal/Slide";
-import Fade from "react-reveal/Fade";
+
+
 
 // components
 import MyNavBar from './components/Nav/MyNavBar.jsx';
@@ -38,9 +38,9 @@ function App() {
           >
             <div>
               <Container className="container-box rounded">
-                <Fade duration={500}>
+                
                   <About />
-                </Fade>
+               
               </Container>
             </div>
           </Parallax>
@@ -52,10 +52,10 @@ function App() {
 
         <div>
           <Container className="container-box rounded">
-              {/* <Slide bottom duration={500}> */}
+            
               <hr />
               <Skills />
-              {/* </Slide> */}
+              
           </Container>
         </div>
 
@@ -66,10 +66,10 @@ function App() {
 
       <div>
         <Container className="container-box rounded">
-          {/* <Slide bottom duration={500}> */}
+         
             <hr />
             <Project />
-          {/* </Slide> */}
+         
         </Container>
       </div>
       
@@ -79,10 +79,10 @@ function App() {
 
       <div>
         <Container className="container-box rounded">
-          {/* <Slide bottom duration={500}> */}
+          
             <hr />
             <Contact />
-          {/* </Slide> */}
+         
         </Container>
       </div>
       <div>
